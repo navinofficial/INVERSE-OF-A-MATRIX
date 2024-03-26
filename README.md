@@ -20,8 +20,8 @@ End the program
 ## Program:
 ```
 #Program to find the inverse of a matrix.
-#Developed by  : Bharathraj P
-#RegisterNumber: 212223230031
+#Developed by  : Navinkumar v
+#RegisterNumber: 212223230141
 
 import numpy as np
 a = np.array([[2,1,1],[1,1,1],[1,-1,2]])
@@ -29,7 +29,8 @@ solution = np.linalg.inv(a)
 print(solution)
 ```
 ## Output:
-![image](https://github.com/Bharathraj2006/INVERSE-OF-A-MATRIX/assets/152376845/d3ec6bf5-2f79-4c2b-8203-0de1b2665f8c)
+![Screenshot 2024-03-26 142719](https://github.com/navinofficial/INVERSE-OF-A-MATRIX/assets/151710204/899441e8-5de4-4389-85e4-a070097f2b19)
+
 
 
 ## Result:
